@@ -1,5 +1,11 @@
 # DJI Mobile SDK for Android V5 Latest Version 5.8.0
 
+In landing function， add force force landing. Without this, obstacle avoidance will prevent the plane from landing
+
+
+
+
+
 [中文版](README_CN.md)
 
 ## What is DJI Mobile SDK V5?
